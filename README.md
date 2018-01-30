@@ -1,3 +1,5 @@
+# Bloxorz
+
 A clone of the well known 3D Miniclip game Bloxorz, implemented using OpenGL3. The game has increasing levels of difficulties, with a restriction on lives and moves, while also allowing the player to view the game from different angles and locations.
 
 # How to Run:
